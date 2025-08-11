@@ -11,5 +11,7 @@ This project is a simple Excel dashboard for sales data.
 2. Open it with Microsoft Excel or Google Sheets.
 3. Explore the dashboard and charts.
 
+**Note:** The data provided in this dashboard is just example data for demonstration purposes and is not real sales data.
+
 ## Author
 - [manikanta98120](https://github.com/manikanta98120)
